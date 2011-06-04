@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="applicationTitle">Android Twitter Client Test</string>
+    <string name="app_name">TwitterClientTest</string>
+    <string name="updateButton">Update</string>
+    <string name="Status">Status</string>
+    <string name="searchFromTwitter">Twitterから検索</string>
+    <string name="searchStart">検索開始</string>
+    <string name="NullString"></string>
+</resources>
